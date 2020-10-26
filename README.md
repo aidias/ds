@@ -3,4 +3,67 @@ Design system for systems platforms
 
 ## features
 
+- [ ] How to Contribute guide
+- [ ] Documentation
+- [ ] Accessibility and SEO 
 - [ ] Spacing: Margin and Padding
+- [ ] Default Colors
+- [ ] Themes (Dark/Light/Dracula)
+- [ ] Grid
+- [ ] Breakpoints
+- [ ] Typography
+  - [ ] Type family
+  - [ ] Type scale
+  - [ ] Device scales
+- [ ] Container
+- [ ] Subheader
+- [ ] Title
+- [ ] Subtitle
+- Components:
+  - [ ] Alert
+  - [ ] AutoComplete
+  - [ ] Badge
+  - [ ] Button
+  - [ ] Card
+  - [ ] CharacterCounter
+  - [ ] Checkbox
+  - [ ] CheckboxFilter
+  - [ ] Collapse
+  - [ ] CopyButton
+  - [ ] DataTable
+  - [ ] Datepicker
+  - [ ] DescriptionItem
+  - [ ] Dropdown
+  - [ ] Emoji
+  - [ ] FieldError
+  - [ ] Icon
+  - [ ] Image
+  - [ ] Input
+  - [ ] InputSearch
+  - [ ] InputPassword
+  - [ ] Label
+  - [ ] Link
+  - [ ] Loading
+  - [ ] Modal
+  - [ ] Nav
+  - [ ] NavDropdown
+  - [ ] NavBar
+  - [ ] OptionalField
+  - [ ] Pagination
+  - [ ] Popover
+  - [ ] ProgressBar
+  - [ ] ProgressCircle
+  - [ ] Radio
+  - [ ] Select
+  - [ ] SelectFilter
+  - [ ] Separator
+  - [ ] SeparatorText
+  - [ ] SplashFeedback
+  - [ ] Table
+  - [ ] Tabs
+  - [ ] Text
+  - [ ] Textarea
+  - [ ] Toastr
+  - [ ] Toggle
+  - [ ] Tooltip
+  - [ ] Uploader
