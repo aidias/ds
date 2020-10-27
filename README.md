@@ -29,6 +29,7 @@ Design system for systems platforms
   - [ ] Checkbox
   - [ ] CheckboxFilter
   - [ ] Collapse
+  - [ ] ColorPicker
   - [ ] CopyButton
   - [ ] DataTable
   - [ ] Datepicker
@@ -48,6 +49,7 @@ Design system for systems platforms
   - [ ] Nav
   - [ ] NavDropdown
   - [ ] NavBar
+  - [ ] Notification
   - [ ] OptionalField
   - [ ] Pagination
   - [ ] Popover
@@ -58,7 +60,9 @@ Design system for systems platforms
   - [ ] SelectFilter
   - [ ] Separator
   - [ ] SeparatorText
+  - [ ] Sidebar/Drawer
   - [ ] SplashFeedback
+  - [ ] StatusBar
   - [ ] Table
   - [ ] Tabs
   - [ ] Text
